@@ -48,6 +48,6 @@ def main():
     print(random_number)
 
 
-# invoking the main function so it can be run
+# invoking the main function so it can be run :)
 
 main()
